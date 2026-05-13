@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with iStat Menus for macOS custom Script: hotkey-customization & virtualization, the #1 script. Includes hotkey-customization and virtualization for
 
 
 
